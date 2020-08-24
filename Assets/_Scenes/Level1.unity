@@ -2279,12 +2279,12 @@ PrefabInstance:
     - target: {fileID: 9048769370191548569, guid: 527f9f8d2481641d4b4620f84aefe3aa,
         type: 3}
       propertyPath: XSensitivity
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9048769370191548569, guid: 527f9f8d2481641d4b4620f84aefe3aa,
         type: 3}
       propertyPath: YSensitivity
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9048769370191548574, guid: 527f9f8d2481641d4b4620f84aefe3aa,
         type: 3}
